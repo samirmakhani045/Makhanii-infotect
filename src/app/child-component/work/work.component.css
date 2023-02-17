@@ -1,0 +1,11 @@
+.imaeg{
+    box-shadow: 0 1px 12px 0 rgb(0 0 0 / 24%);
+    height: 280px;
+    background-color: #754ef040;
+    border-radius: 12px;
+    object-fit: contain;
+    padding: 5px 5px 2px 5px;
+}
+.work-overlay{
+    border-radius: 12px;
+}

@@ -13,6 +13,7 @@ import { WorkComponent } from './child-component/work/work.component';
 import { CallToActionComponent } from './child-component/call-to-action/call-to-action.component';
 import { ServiceComponent } from './child-component/service/service.component';
 import { AboutComponent } from './child-component/about/about.component';
+import { AddTestonimalComponent } from './child-component/add-testonimal/add-testonimal.component';
 
 @NgModule({
   declarations: [
@@ -26,7 +27,8 @@ import { AboutComponent } from './child-component/about/about.component';
     WorkComponent,
     CallToActionComponent,
     ServiceComponent,
-    AboutComponent
+    AboutComponent,
+    AddTestonimalComponent
   ],
   imports: [
     BrowserModule,
